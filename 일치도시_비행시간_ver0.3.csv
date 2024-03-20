@@ -1,0 +1,389 @@
+City,Flight Time,Nonstop
+"Seoul, South Korea",0,Y
+"Shanghai, China",1.7,Y
+"Osaka, Japan",1.7,Y
+"Beijing, China",2,Y
+"Tokyo, Japan",2.3,Y
+"Taipei, Taiwan",2.5,Y
+"Ulaanbaatar, Mongolia",3.25,Y
+"Manila, Philippines",3.5,Y
+"Guangzhou, China",3.5,Y
+"Shenzhen, China",3.5,Y
+"Hong Kong, Hong Kong",3.5,Y
+"Quezon City, Philippines",4,Y
+"Makati, Philippines",4,Y
+"Cebu, Philippines",4.3,Y
+"Hanoi, Vietnam",4.5,Y
+"Ho Chi Minh City, Vietnam",5,Y
+"Phnom Penh, Cambodia",5.3,Y
+"Petaling Jaya, Malaysia",5.5,Y
+"Chiang Mai, Thailand",5.5,Y
+"Bangkok, Thailand",5.5,Y
+"Kathmandu, Nepal",6,Y
+"Singapore, Singapore",6,Y
+"Tashkent, Uzbekistan",6.5,Y
+"Almaty, Kazakhstan",6.5,Y
+"Kuala Lumpur, Malaysia",6.5,Y
+"Jakarta, Indonesia",7,Y
+"Bali, Indonesia",7,Y
+"Colombo, Sri Lanka",9,Y
+"Dhaka, Bangladesh",9,N
+"Penang, Malaysia",9,N
+"Dubai, United Arab Emirates",9.3,Y
+"Abu Dhabi, United Arab Emirates",9.5,Y
+"Brisbane, Australia",9.5,Y
+"Honolulu, HI, United States",9.5,Y
+"Astana (Nur-Sultan), Kazakhstan",10,N
+"Doha, Qatar",10,Y
+"Kolkata, India",10.3,N
+"Sydney, Australia",10.3,Y
+"Chennai, India",10.5,N
+"Hyderabad, India",10.5,N
+"Vancouver, Canada",10.7,Y
+"Ahmedabad, India",11,N
+"Mumbai, India",11,N
+"Istanbul, Turkey",11,Y
+"Surrey, Canada",11,N
+"Seattle, WA, United States",11,Y
+"Baguio, Philippines",11.3,N
+"San Francisco, CA, United States",11.5,Y
+"Auckland, New Zealand",11.6,Y
+"Vienna, Austria",11.8,Y
+"Mangalore, India",12,N
+"Jaipur, India",12,N
+"Indore, India",12,N
+"Bangalore, India",12,N
+"Delhi, India",12,N
+"Navi Mumbai, India",12,N
+"Noida, India",12,N
+"Chandigarh, India",12,N
+"Addis Ababa, Ethiopia",12,Y
+"Los Angeles, CA, United States",12,Y
+"Thiruvananthapuram, India",12.3,N
+"Munich, Germany",12.3,Y
+"Rawalpindi, Pakistan",12.5,N
+"Karachi, Pakistan",12.5,N
+"Islamabad, Pakistan",12.5,N
+"Lahore, Pakistan",12.5,N
+"Pune, India",12.5,N
+"Muscat, Oman",12.5,N
+"Manama, Bahrain",12.5,N
+"Male, Maldives",12.5,N
+"Las Vegas, NV, United States",12.5,Y
+"Frankfurt, Germany",12.5,Y
+"Rome, Italy",12.6,Y
+"Helsinki, Finland",12.7,Y
+"Milan, Italy",12.8,Y
+"Ghaziabad, India",13,N
+"Gurgaon, India",13,N
+"Budapest, Hungary",13,Y
+"Ad Dammam, Saudi Arabia",13,N
+"Riyadh, Saudi Arabia",13,N
+"Canberra, Australia",13,N
+"Perth, Australia",13,N
+"Amsterdam, Netherlands",13,Y
+"Paris, France",13,Y
+"Visakhapatnam, India",13.3,N
+"Kuwait City, Kuwait",13.3,N
+"Prague, Czech Republic",13.3,N
+"Barcelona, Spain",13.3,Y
+"London, United Kingdom",13.4,Y
+"Kochi, India",13.5,N
+"Mysore, India",13.5,N
+"Madrid, Spain",13.5,Y
+"Spokane, WA, United States",13.5,N
+"Gold Coast, Australia",13.5,N
+"Melbourne, Australia",13.5,N
+"Portland, OR, United States",13.5,N
+"Minneapolis, MN, United States",13.5,Y
+"Brighton, United Kingdom",13.5,N
+"Tehran, Iran",13.75,N
+"Vadodara, India",13.8,N
+"Surat, India",13.8,N
+"Lucknow (Lakhnau), India",13.8,N
+"Nanaimo, BC, Canada",13.9,N
+"Nagpur, India",14,N
+"Ankara, Turkey",14,N
+"Izmir, Turkey",14,N
+"Baku, Azerbaijan",14,N
+"Lodz, Poland",14,N
+"Warsaw, Poland",14,N
+"Amman, Jordan",14,N
+"Jeddah (Jiddah), Saudi Arabia",14,N
+"Dallas, TX, United States",14,Y
+"Brampton, Canada",14,Y
+"The Hague (Den Haag), Netherlands",14,N
+"Toronto, Canada",14,Y
+"Adelaide, Australia",14,N
+"Chicago, IL, United States",14,Y
+"Utrecht, Netherlands",14,N
+"Boise, ID, United States",14.3,N
+"Detroit, MI, United States",14.3,Y
+"Edmonton, Canada",14.3,N
+"Zurich, Switzerland",14.4,N
+"Chisinau, Moldova",14.5,N
+"Skopje, North Macedonia",14.5,N
+"Cluj-Napoca, Romania",14.5,N
+"Krakow (Cracow), Poland",14.5,N
+"Sofia, Bulgaria",14.5,N
+"Dusseldorf, Germany",14.5,N
+"Kelowna, Canada",14.5,N
+"Mississauga, Canada",14.5,N
+"Atlanta, GA, United States",14.5,Y
+"Darwin, Australia",14.5,N
+"Washington, DC, United States",14.5,Y
+"Boston, MA, United States",14.5,Y
+"Beirut, Lebanon",14.5,N
+"Zagreb, Croatia",14.6,N
+"Split, Croatia",14.6,N
+"Thessaloniki, Greece",14.6,N
+"Athens, Greece",14.7,N
+"Naples, Italy",14.7,N
+"Jerusalem, Israel",14.7,N
+"Haifa, Israel",14.7,N
+"Cologne, Germany",14.8,N
+"Wellington, New Zealand",14.9,N
+"Tbilisi, Georgia",15,N
+"Cairo, Egypt",15,N
+"Brasov, Romania",15,N
+"Novi Sad, Serbia",15,N
+"Sarajevo, Bosnia And Herzegovina",15,N
+"Tirana, Albania",15,N
+"Varna, Bulgaria",15,N
+"Podgorica, Montenegro",15,N
+"Belgrade, Serbia",15,N
+"Bucharest, Romania",15,N
+"Wroclaw, Poland",15,N
+"Gdansk, Poland",15,N
+"Pattaya, Thailand",15,N
+"Ljubljana, Slovenia",15,N
+"Palermo, Italy",15,N
+"Bari, Italy",15,N
+"Tucson, AZ, United States",15,N
+"Nicosia, Cyprus",15,N
+"Turin, Italy",15,N
+"Nuremberg, Germany",15,N
+"Hanover, Germany",15,N
+"Berlin, Germany",15,N
+"Bologna, Italy",15,N
+"Florence, Italy",15,N
+"Bonn, Germany",15,N
+"Red Deer, Canada",15,N
+"Hamburg, Germany",15,N
+"Markham, Canada",15,N
+"Genoa, Italy",15,N
+"Christchurch, New Zealand",15,N
+"Graz, Austria",15,N
+"San Diego, CA, United States",15,N
+"Guelph, Canada",15,N
+"Sacramento, CA, United States",15,N
+"Stockholm, Sweden",15,N
+"Luxembourg, Luxembourg",15,N
+"Tel Aviv-Yafo, Israel",15,N
+"New York, NY, United States",15,Y
+"Phoenix, AZ, United States",15.2,N
+"Coimbatore, India",15.3,N
+"Nice, France",15.3,N
+"Gothenburg, Sweden",15.4,N
+"Calgary, Canada",15.4,N
+"Brussels, Belgium",15.4,N
+"Poznan, Poland",15.5,N
+"Vilnius, Lithuania",15.5,N
+"Riga, Latvia",15.5,N
+"Leipzig, Germany",15.5,N
+"Manchester, United Kingdom",15.5,N
+"San Jose, CA, United States",15.5,N
+"Denver, CO, United States",15.5,N
+"Aalborg, Denmark",15.5,N
+"Copenhagen, Denmark",15.5,N
+"Oslo, Norway",15.5,N
+"Geneva, Switzerland",15.5,N
+"Bremen, Germany",15.7,N
+"Oulu, Finland",15.7,N
+"Basel, Switzerland",15.7,N
+"Algiers, Algeria",16,N
+"Tunis, Tunisia",16,N
+"Baghdad, Iraq",16,N
+"Valencia, Spain",16,N
+"Palma de Mallorca, Spain",16,N
+"San Antonio, TX, United States",16,N
+"Freiburg im Breisgau, Germany",16,N
+"Salt Lake City, UT, United States",16,N
+"Limassol, Cyprus",16,N
+"Cagliari, Italy",16,N
+"Newcastle upon Tyne, United Kingdom",16,N
+"Coventry, United Kingdom",16,N
+"Birmingham, United Kingdom",16,N
+"Stuttgart, Germany",16,N
+"Gent, Belgium",16,N
+"Marseille, France",16,N
+"Antwerp, Belgium",16,N
+"Trieste, Italy",16,N
+"Uppsala, Sweden",16,N
+"Lyon, France",16,N
+"Anchorage, AK, United States",16,N
+"Stavanger, Norway",16,N
+"Bristol, United Kingdom",16.3,N
+"Edinburgh, United Kingdom",16.3,N
+"Hobart, Australia",16.3,N
+"Dublin, Ireland",16.4,N
+"Nairobi, Kenya",16.5,N
+"Bilbao, Spain",16.5,N
+"Glasgow, United Kingdom",16.5,N
+"Winnipeg, Canada",16.5,N
+"Saskatoon, Canada",16.5,N
+"Hamilton, New Zealand",16.5,N
+"Cleveland, OH, United States",16.5,N
+"Toulouse, France",16.5,N
+"Oakland, CA, United States",16.5,N
+"Aberdeen, United Kingdom",16.6,N
+"Yerevan, Armenia",17,N
+"Timisoara, Romania",17,N
+"Mexico City, Mexico",17,N
+"Tartu, Estonia",17,N
+"Tallinn, Estonia",17,N
+"Albuquerque, NM, United States",17,N
+"Austin, TX, United States",17,N
+"Leeds, United Kingdom",17,N
+"Regina, Canada",17,N
+"Columbus, OH, United States",17,N
+"Nashville, TN, United States",17,N
+"Lund, Sweden",17,N
+"Philadelphia, PA, United States",17,N
+"Pittsburgh, PA, United States",17,N
+"Trondheim, Norway",17,N
+"Lausanne, Switzerland",17,N
+"Lugano, Switzerland",17,N
+"Casablanca, Morocco",17.3,N
+"Banja Luka, Bosnia And Herzegovina",17.3,N
+"Houston, TX, United States",17.3,N
+"Milwaukee, WI, United States",17.3,N
+"Baltimore, MD, United States",17.3,N
+"Newcastle, Australia",17.3,N
+"Arhus, Denmark",17.3,N
+"Bergen, Norway",17.3,N
+"Sharjah, United Arab Emirates",17.5,N
+"Lisbon, Portugal",17.5,N
+"Raleigh, NC, United States",17.5,N
+"Jacksonville, FL, United States",17.5,N
+"London, Canada",17.5,N
+"Ottawa, Canada",17.5,N
+"Halifax, Canada",17.5,N
+"Tampa, FL, United States",17.5,N
+"El Paso, TX, United States",17.6,N
+"Catania, Italy",17.7,N
+"Montreal, Canada",17.7,N
+"Dar es Salaam, Tanzania",18,N
+"Guadalajara, Mexico",18,N
+"Johannesburg, South Africa",18,N
+"Porto, Portugal",18,N
+"Malaga, Spain",18,N
+"Ajman, United Arab Emirates",18,N
+"Memphis, TN, United States",18,N
+"Cincinnati, OH, United States",18,N
+"Belfast, United Kingdom",18,N
+"Sheffield, United Kingdom",18,N
+"Kansas City, MO, United States",18,N
+"Madison, WI, United States",18,N
+"Louisville, KY, United States",18,N
+"Richmond, VA, United States",18,N
+"Orlando, FL, United States",18,N
+"Cardiff, United Kingdom",18,N
+"Charlotte, NC, United States",18,N
+"Nottingham, United Kingdom",18,N
+"Liverpool, United Kingdom",18,N
+"New Orleans, LA, United States",18,N
+"Omaha, NE, United States",18,N
+"Victoria, Canada",18,N
+"Cork, Ireland",18.2,N
+"Kabul, Afghanistan",18.3,N
+"Alicante, Spain",18.3,N
+"Indianapolis, IN, United States",18.3,N
+"Kigali, Rwanda",18.5,N
+"Merida, Mexico",18.5,N
+"Katowice, Poland",18.5,N
+"Rijeka, Croatia",18.5,N
+"Seville (Sevilla), Spain",18.5,N
+"Miami, FL, United States",18.5,N
+"Eindhoven, Netherlands",18.5,N
+"Saint Louis, MO, United States",18.6,N
+"Rabat, Morocco",19,N
+"Guatemala City, Guatemala",19,N
+"Buffalo, NY, United States",19,N
+"Lagos, Nigeria",19.3,N
+"Accra, Ghana",19.3,N
+"Gaborone, Botswana",19.3,N
+"Iasi, Romania",19.5,N
+"Cape Town, South Africa",19.5,N
+"Cambridge, United Kingdom",19.5,N
+"Alexandria, Egypt",20,N
+"Cancun, Mexico",20,N
+"Pretoria, South Africa",20,N
+"St.Catharines, Canada",20,N
+"Tampere, Finland",20,N
+"Reykjavik, Iceland",20,N
+"Oradea, Romania",20.5,N
+"St. John's, Newfoundland and Labrador, Canada",20.5,N
+"Rotterdam, Netherlands",20.8,N
+"Craiova, Romania",21,N
+"Harare, Zimbabwe",21,N
+"Limerick, Ireland",21,N
+"Galway, Ireland",21,N
+"Santo Domingo, Dominican Republic",21.5,N
+"San Salvador, El Salvador",21.5,N
+"Dresden, Germany",21.7,N
+"San Juan, Puerto Rico",21.7,N
+"Monterrey, Mexico",22,N
+"Karlsruhe, Germany",22,N
+"Quebec City, Canada",22,N
+"Malmo, Sweden",22,N
+"Windsor, Canada",22.7,N
+"Queretaro, Mexico",23,N
+"Durban, South Africa",23,N
+"San Jose, Costa Rica",23,N
+"Panama City, Panama",23,N
+"Grenoble, France",23,N
+"Bogota, Colombia",23.3,N
+"Constanta, Romania",23.3,N
+"Minsk, Belarus",23.5,N
+"Medellin, Colombia",24,N
+"Lima, Peru",24,N
+"Kingston, Jamaica",25.3,N
+"Sao Paulo, Brazil",25.5,N
+"Kaunas, Lithuania",25.5,N
+"Cuenca, Ecuador",26,N
+"Guayaquil, Ecuador",26,N
+"Quito, Ecuador",26,N
+"Cali, Colombia",27,N
+"Rio de Janeiro, Brazil",27,N
+"Santiago, Chile",27.5,N
+"Havana, Cuba",27.5,N
+"Port of Spain, Trinidad And Tobago",27.7,N
+"Buenos Aires, Argentina",28,N
+"Kingston, Canada",28.5,N
+"Kitchener, Canada",28.5,N
+"Asuncion, Paraguay",29,N
+"Belo Horizonte, Brazil",29,N
+"Brasilia, Brazil",29.3,N
+"Caracas, Venezuela",29.3,N
+"Bratislava, Slovakia",29.3,N
+"Curitiba, Brazil",30,N
+"Brno, Czech Republic",30,N
+"Groningen, Netherlands",30,N
+"Porto Alegre, Brazil",31,N
+"Montevideo, Uruguay",31,N
+"Hamilton, Canada",31,N
+"Florianopolis, Brazil",31.5,N
+"Bern, Switzerland",35,N
+"Dnipro, Ukraine",N,N
+"Lviv, Ukraine",N,N
+"Kharkiv, Ukraine",N,N
+"Odessa (Odesa), Ukraine",N,N
+"Rostov-na-donu, Russia",N,N
+"Novosibirsk, Russia",N,N
+"Yekaterinburg, Russia",N,N
+"Nizhny Novgorod, Russia",N,N
+"Kiev (Kyiv), Ukraine",N,N
+"Damascus, Syria",N,N
+"Saint Petersburg, Russia",N,N
+"Moscow, Russia",N,N

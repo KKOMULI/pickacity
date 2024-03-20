@@ -1,0 +1,454 @@
+﻿City,Safety Index
+"Abu Dhabi, United Arab Emirates",88.33
+"Doha, Qatar",86.04
+"San Sebastian, Spain",85.14
+"Taipei, Taiwan",84.95
+"Quebec City, Canada",84.86
+"Ajman, United Arab Emirates",84.36
+"Sharjah, United Arab Emirates",84.31
+"Dubai, United Arab Emirates",83.7
+"Zurich, Switzerland",82.74
+"Bern, Switzerland",82.06
+"Munich, Germany",81.34
+"Eskisehir, Turkey",81.14
+"Trondheim, Norway",80.59
+"Lugano, Switzerland",80.52
+"Oradea, Romania",80.18
+"Basel, Switzerland",79.88
+"Muscat, Oman",79.46
+"Arhus, Denmark",79.4
+"Tartu, Estonia",79.3
+"Groningen, Netherlands",79.2
+"Irvine, CA, United States",79.1
+"Manama, Bahrain",78.94
+"Zagreb, Croatia",78.64
+"Ljubljana, Slovenia",78.52
+"Hong Kong, Hong Kong",78.38
+"Yerevan, Armenia",78.34
+"Tampere, Finland",78.14
+"Cluj-Napoca, Romania",77.84
+"The Hague (Den Haag), Netherlands",77.74
+"Canberra, Australia",77.69
+"Coquitlam, Canada",77.49
+"Amarillo, TX, United States",77.03
+"Reykjavik, Iceland",76.98
+"Stavanger, Norway",76.68
+"Rijeka, Croatia",76.57
+"Tallinn, Estonia",76.41
+"Tokyo, Japan",76.21
+"Chiang Mai, Thailand",76.09
+"Timisoara, Romania",75.94
+"Prague, Czech Republic",75.9
+"Kigali, Rwanda",75.84
+"Eindhoven, Netherlands",75.68
+"Helsinki, Finland",75.08
+"Merida, Mexico",75.04
+"Mangalore, India",74.93
+"Markham, Canada",74.85
+"Tbilisi, Georgia",74.84
+"Seoul, South Korea",74.62
+"Lausanne, Switzerland",74.47
+"Aalborg, Denmark",74.46
+"Oakville, Canada",74.26
+"Brno, Czech Republic",73.92
+"Trieste, Italy",73.83
+"Gent, Belgium",73.74
+"Richmond Hill, Canada",73.72
+"Riyadh, Saudi Arabia",73.69
+"Brasov, Romania",73.51
+"Vilnius, Lithuania",73.49
+"Geneva, Switzerland",73.39
+"Tel Aviv-Yafo, Israel",73.38
+"Copenhagen, Denmark",73.33
+"Utrecht, Netherlands",73.19
+"Vienna, Austria",73.15
+"Haifa, Israel",73.14
+"Antalya, Turkey",72.97
+"Malaga, Spain",72.95
+"Bergen, Norway",72.8
+"Singapore, Singapore",72.78
+"Ottawa, Canada",72.73
+"Warsaw, Poland",72.7
+"Graz, Austria",72.62
+"Valencia, Spain",72.32
+"Davao, Philippines",72.25
+"Bursa, Turkey",71.8
+"Bucharest, Romania",71.75
+"Alicante, Spain",71.19
+"Jeddah (Jiddah), Saudi Arabia",71.05
+"Lisbon, Portugal",70.83
+"Galway, Ireland",70.81
+"Nizhny Novgorod, Russia",70.77
+"Islamabad, Pakistan",70.48
+"Cambridge, United Kingdom",70.39
+"Nicosia, Cyprus",70.13
+"Bratislava, Slovakia",70.11
+"Adelaide, Australia",70.02
+"Burlington, Canada",70
+"Madrid, Spain",69.94
+"Luxembourg, Luxembourg",69.85
+"Krakow (Cracow), Poland",69.72
+"Ad Dammam, Saudi Arabia",69.71
+"Baku, Azerbaijan",69.64
+"Edinburgh, United Kingdom",69.49
+"Kuwait City, Kuwait",69.45
+"Poznan, Poland",69.43
+"Wellington, New Zealand",69.39
+"Dresden, Germany",69.37
+"Stuttgart, Germany",69.29
+"Wroclaw, Poland",69.13
+"Izmir, Turkey",69.06
+"Montreal, Canada",69.01
+"Havana, Cuba",68.8
+"Gdansk, Poland",68.59
+"Freiburg im Breisgau, Germany",68.43
+"Seville (Sevilla), Spain",68.41
+"Shenzhen, China",68.14
+"Limassol, Cyprus",67.95
+"Hobart, Australia",67.82
+"Palma de Mallorca, Spain",67.72
+"Osaka, Japan",67.65
+"Ahmedabad, India",67.6
+"Beijing, China",67.56
+"El Paso, TX, United States",67.28
+"Vadodara, India",67.08
+"Amsterdam, Netherlands",66.94
+"Salt Lake City, UT, United States",66.89
+"Astana (Nur-Sultan), Kazakhstan",66.87
+"Guelph, Canada",66.83
+"Shanghai, China",66.59
+"Nuremberg, Germany",66.52
+"Split, Croatia",66.38
+"Iasi, Romania",66.33
+"Aberdeen, United Kingdom",66.32
+"Aguascalientes, Mexico",66.26
+"Sydney, Australia",66.19
+"Tashkent, Uzbekistan",66.14
+"Lund, Sweden",66.04
+"Madison, WI, United States",66.02
+"Dusseldorf, Germany",65.94
+"Oslo, Norway",65.94
+"Kingston, Canada",65.83
+"Navi Mumbai, India",65.67
+"Puerto Vallarta, Mexico",65.57
+"Raleigh, NC, United States",65.4
+"Banja Luka, Bosnia And Herzegovina",65.23
+"Brisbane, Australia",64.95
+"Budapest, Hungary",64.94
+"Porto, Portugal",64.65
+"Jaipur, India",64.48
+"Surat, India",64.45
+"Penang, Malaysia",64.41
+"Boise, ID, United States",64.34
+"Lahore, Pakistan",64.23
+"Cork, Ireland",63.97
+"Rotterdam, Netherlands",63.84
+"Rabat, Morocco",63.83
+"Jerusalem, Israel",63.76
+"Cagliari, Italy",63.63
+"Guangzhou, China",63.59
+"Klaipeda, Lithuania",63.54
+"Brighton, United Kingdom",63.51
+"Oulu, Finland",63.49
+"Queretaro, Mexico",63.26
+"Nagpur, India",63.23
+"Calgary, Canada",63.18
+"Varna, Bulgaria",62.87
+"San Diego, CA, United States",62.85
+"Baguio, Philippines",62.83
+"Kathmandu, Nepal",62.75
+"Moscow, Russia",62.75
+"Austin, TX, United States",62.75
+"Cardiff, United Kingdom",62.49
+"Antwerp, Belgium",62.44
+"Kaunas, Lithuania",62.42
+"Visakhapatnam, India",62.2
+"Riga, Latvia",62.09
+"Strasbourg, France",62.07
+"Belgrade, Serbia",61.99
+"Victoria, Canada",61.95
+"Karlsruhe, Germany",61.91
+"Hanoi, Vietnam",61.88
+"Pittsburgh, PA, United States",61.81
+"Vancouver, Canada",61.75
+"Makati, Philippines",61.61
+"Amman, Jordan",61.18
+"Lviv, Ukraine",61.11
+"Riverside, CA, United States",61.03
+"Newcastle upon Tyne, United Kingdom",60.85
+"Boston, MA, United States",60.75
+"Ankara, Turkey",60.59
+"Saint Petersburg, Russia",60.49
+"Coimbatore, India",60.47
+"Thiruvananthapuram, India",60.46
+"Florence, Italy",59.77
+"Alexandria, Egypt",59.76
+"Limerick, Ireland",59.72
+"Bonn, Germany",59.57
+"Chennai, India",59.55
+"Uppsala, Sweden",59.44
+"Brooklyn, NY, United States",59.22
+"Leipzig, Germany",59.14
+"Kitchener, Canada",59.03
+"Bangkok, Thailand",59.02
+"Christchurch, New Zealand",58.85
+"Halifax, Canada",58.84
+"Colombo, Sri Lanka",58.81
+"Kochi, India",58.79
+"Katowice, Poland",58.74
+"Hanover, Germany",58.71
+"Cuenca, Ecuador",58.64
+"Iloilo, Philippines",58.62
+"Novi Sad, Serbia",58.59
+"Bremen, Germany",58.48
+"Toronto, Canada",58.48
+"Pune, India",58.44
+"Perth, Australia",58.39
+"Bristol, United Kingdom",58.19
+"Lodz, Poland",57.91
+"Sofia, Bulgaria",57.87
+"Berlin, Germany",57.76
+"Genoa, Italy",57.49
+"Hamburg, Germany",57.44
+"Cologne, Germany",57.35
+"Vaughan, Canada",57.3
+"Mississauga, Canada",56.94
+"Windsor, Canada",56.75
+"Leeds, United Kingdom",56.66
+"Chandigarh, India",56.54
+"Sheffield, United Kingdom",56.14
+"Hyderabad, India",56.13
+"Columbus, OH, United States",56.02
+"Kristiansand, Norway",55.94
+"Frankfurt, Germany",55.88
+"Melbourne, Australia",55.61
+"Tirana, Albania",55.5
+"Edmonton, Canada",55.44
+"Chisinau, Moldova",55.26
+"Denver, CO, United States",55.13
+"Belfast, United Kingdom",55.1
+"Moncton, Canada",54.96
+"Sarajevo, Bosnia And Herzegovina",54.79
+"Mumbai, India",54.72
+"Kuching, Malaysia",54.55
+"Kiev (Kyiv), Ukraine",54.31
+"Vitoria, Brazil",54.28
+"Charlotte, NC, United States",54.23
+"San Jose, CA, United States",54.1
+"Glasgow, United Kingdom",54.07
+"Stockholm, Sweden",54.03
+"Gold Coast, Australia",53.81
+"Honolulu, HI, United States",53.76
+"Pattaya, Thailand",53.55
+"Buffalo, NY, United States",53.55
+"Hamilton, New Zealand",53.43
+"Palermo, Italy",53.41
+"Newcastle, Australia",53.4
+"Bologna, Italy",53.38
+"Beirut, Lebanon",53.33
+"Kolkata, India",53.32
+"Auckland, New Zealand",53.25
+"Omaha, NE, United States",53.24
+"Skopje, North Macedonia",53.24
+"Milan, Italy",53.16
+"Nashville, TN, United States",53.16
+"Accra, Ghana",53.12
+"Novosibirsk, Russia",53.08
+"St. John's, Newfoundland and Labrador, Canada",53.01
+"Yekaterinburg, Russia",52.87
+"Tunis, Tunisia",52.86
+"Addis Ababa, Ethiopia",52.85
+"Panama City, Panama",52.84
+"Monterrey, Mexico",52.8
+"Podgorica, Montenegro",52.8
+"Gothenburg, Sweden",52.66
+"St.Catharines, Canada",52.58
+"Tampa, FL, United States",52.45
+"Istanbul, Turkey",52.38
+"Richmond, VA, United States",52.23
+"New York, NY, United States",51.87
+"San Antonio, TX, United States",51.76
+"Bali, Indonesia",51.64
+"Cincinnati, OH, United States",51.63
+"Bordeaux, France",51.61
+"Lucknow (Lakhnau), India",51.59
+"Rawalpindi, Pakistan",51.43
+"Sacramento, CA, United States",51.4
+"Indore, India",51.39
+"Liverpool, United Kingdom",51.37
+"Kharkiv, Ukraine",51.35
+"Saskatoon, Canada",51.19
+"Mysore, India",51.15
+"Barcelona, Spain",51.13
+"Toulouse, France",51.08
+"Nanaimo, BC, Canada",50.77
+"Asuncion, Paraguay",50.71
+"Constanta, Romania",50.68
+"Playa del Carmen, Mexico",50.55
+"Cairo, Egypt",50.32
+"Tucson, AZ, United States",49.71
+"Dallas, TX, United States",49.36
+"Los Angeles, CA, United States",49.18
+"Nottingham, United Kingdom",48.84
+"Turin, Italy",48.72
+"Lyon, France",48.71
+"San Miguel de Allende, Mexico",48.65
+"Seattle, WA, United States",48.65
+"Ufa, Russia",48.6
+"Orlando, FL, United States",48.59
+"Florianopolis, Brazil",48.51
+"Wollongong, Australia",48.27
+"Cebu, Philippines",48.12
+"Dublin, Ireland",48.09
+"Bari, Italy",47.85
+"Phoenix, AZ, United States",47.77
+"Miami, FL, United States",47.72
+"Rostov-na-donu, Russia",47.7
+"Dnipro, Ukraine",47.69
+"Brussels, Belgium",47.59
+"Kamloops, Canada",47.37
+"Regina, Canada",47.18
+"Portland, OR, United States",47.15
+"Drogheda, Ireland",47.04
+"Amadora, Portugal",47.02
+"Petaling Jaya, Malaysia",47.01
+"Rennes, France",47
+"Rome, Italy",46.89
+"Medellin, Colombia",46.88
+"Toowoomba, Australia",46.83
+"Odessa (Odesa), Ukraine",46.83
+"London, United Kingdom",46.71
+"Jakarta, Indonesia",46.7
+"Phnom Penh, Cambodia",46.44
+"London, Canada",46.41
+"Ho Chi Minh City, Vietnam",46.39
+"Algiers, Algeria",46.12
+"Johor Bahru, Malaysia",45.93
+"Karachi, Pakistan",45.9
+"Grenoble, France",45.8
+"Lille, France",45.67
+"Bilbao, Spain",45.58
+"Hamilton, Canada",45.47
+"Thessaloniki, Greece",45.2
+"Montevideo, Uruguay",45.19
+"Bangalore, India",45.19
+"Las Vegas, NV, United States",45.11
+"Brampton, Canada",45.02
+"Ballarat, Australia",44.95
+"Spokane, WA, United States",44.94
+"Oshawa, Canada",44.92
+"Gurgaon, India",44.91
+"Minneapolis, MN, United States",44.9
+"Montpellier, France",44.84
+"Cancun, Mexico",44.82
+"Ulaanbaatar, Mongolia",44.66
+"San Jose, Costa Rica",44.62
+"Casablanca, Morocco",44.61
+"Gaborone, Botswana",44.33
+"Tehran, Iran",44.28
+"Geelong, Australia",44.24
+"Manchester, United Kingdom",44.19
+"Paris, France",43.98
+"Louisville, KY, United States",43.94
+"Athens, Greece",43.58
+"Malmo, Sweden",43.41
+"Jacksonville, FL, United States",43.18
+"Noida, India",42.88
+"Liege, Belgium",42.62
+"Kansas City, MO, United States",42.59
+"Indianapolis, IN, United States",42.34
+"Darwin, Australia",41.53
+"Minsk, Belarus",41.28
+"Winnipeg, Canada",41.07
+"Nairobi, Kenya",40.97
+"Baghdad, Iraq",40.87
+"Delhi, India",40.85
+"Nice, France",40.57
+"Washington, DC, United States",40.57
+"Brasilia, Brazil",40.54
+"Santiago, Chile",40.2
+"Sault Ste. Marie, Canada",40.19
+"Ghaziabad, India",40.17
+"Dar es Salaam, Tanzania",40.1
+"Naples, Italy",40.04
+"San Francisco, CA, United States",39.9
+"Sudbury, Canada",39.9
+"Craiova, Romania",39.8
+"Harare, Zimbabwe",39.65
+"Cordoba, Argentina",39.62
+"Cairns, Australia",39.43
+"Puebla, Mexico",39.42
+"Quito, Ecuador",39.08
+"Quezon City, Philippines",39.01
+"Kelowna, Canada",38.44
+"Red Deer, Canada",38.25
+"Guadalajara, Mexico",38.01
+"Curitiba, Brazil",37.81
+"Anchorage, AK, United States",37.73
+"Tripoli, Libya",37.71
+"Marseille, France",37.49
+"Guatemala City, Guatemala",37.35
+"Birmingham, United Kingdom",37.32
+"Atlanta, GA, United States",37.23
+"Klang, Malaysia",37.16
+"Buenos Aires, Argentina",36.67
+"Kuala Lumpur, Malaysia",36.6
+"Catania, Italy",36.49
+"Belo Horizonte, Brazil",36.46
+"Philadelphia, PA, United States",36.35
+"Dhaka, Bangladesh",36.34
+"Male, Maldives",36.11
+"Lethbridge, AB, Canada",36.11
+"Almaty, Kazakhstan",35.83
+"Houston, TX, United States",35.68
+"Cleveland, OH, United States",35.61
+"Surrey, Canada",35.42
+"Manila, Philippines",35.28
+"Bogota, Colombia",34.58
+"Nantes, France",34.3
+"Chicago, IL, United States",33.9
+"Lagos, Nigeria",33.78
+"Oakland, CA, United States",33.46
+"Campinas, Brazil",33.26
+"Milwaukee, WI, United States",33.22
+"New Orleans, LA, United States",32.95
+"Luanda, Angola",32.55
+"Damascus, Syria",32.06
+"Coventry, United Kingdom",31.65
+"Santo Domingo, Dominican Republic",31.63
+"San Juan, Puerto Rico",31.45
+"Windhoek, Namibia",31.36
+"Mexico City, Mexico",31.14
+"Cali, Colombia",30.5
+"San Salvador, El Salvador",30.21
+"Saint Louis, MO, United States",29.54
+"Sao Paulo, Brazil",29.51
+"Guayaquil, Ecuador",29.41
+"Lima, Peru",29.3
+"Albuquerque, NM, United States",29.07
+"Bradford, United Kingdom",28.76
+"Bloemfontein, South Africa",28.68
+"Kingston, Jamaica",28.56
+"Tijuana, Mexico",28.13
+"Porto Alegre, Brazil",27.08
+"Cape Town, South Africa",26.87
+"Rockhampton, Australia",26.49
+"Detroit, MI, United States",25.37
+"Memphis, TN, United States",25.24
+"Rosario, Argentina",24.89
+"Salvador, Brazil",24.31
+"Baltimore, MD, United States",24.25
+"Port of Spain, Trinidad And Tobago",23.79
+"Recife, Brazil",23.58
+"Port Elizabeth, South Africa",23.56
+"Fortaleza, Brazil",22.64
+"Natal, Brazil",22.31
+"Rio de Janeiro, Brazil",22.07
+"Kabul, Afghanistan",20.61
+"Johannesburg, South Africa",19.45
+"Durban, South Africa",19.4
+"Port Moresby, Papua New Guinea",19.29
+"San Pedro Sula, Honduras",19.13
+"Celaya, Mexico",18.2
+"Pretoria, South Africa",18.02
+"Caracas, Venezuela",16.02

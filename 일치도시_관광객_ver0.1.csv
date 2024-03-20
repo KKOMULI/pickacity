@@ -1,0 +1,389 @@
+City,Tourism Ranking
+"Hong Kong, Hong Kong",1
+"Bangkok, Thailand",2
+"London, Canada",3
+"Singapore, Singapore",5
+"Paris, France",6
+"Dubai, United Arab Emirates",7
+"New York, NY, United States",8
+"Kuala Lumpur, Malaysia",9
+"Istanbul, Turkey",10
+"Delhi, India",11
+"Shenzhen, China",13
+"Navi Mumbai, India",14
+"Palma de Mallorca, Spain",15
+"Rome, Italy",17
+"Tokyo, Japan",18
+"Pattaya, Thailand",19
+"Taipei, Taiwan",20
+"Guangzhou, China",22
+"Prague, Czech Republic",23
+"Seoul, South Korea",25
+"Amsterdam, Netherlands",26
+"Miami, FL, United States",28
+"Osaka, Japan",29
+"Shanghai, China",31
+"Ho Chi Minh City, Vietnam",32
+"Barcelona, Spain",34
+"Los Angeles, CA, United States",35
+"Milan, Italy",36
+"Chennai, India",37
+"Vienna, Austria",38
+"Jaipur, India",40
+"Cancun, Mexico",41
+"Berlin, Germany",42
+"Athens, Greece",43
+"Mexico City, Mexico",43
+"Orlando, FL, United States",44
+"Moscow, Russia",45
+"Madrid, Spain",47
+"Riyadh, Saudi Arabia",49
+"Sao Paulo, Brazil",49
+"Dublin, Ireland",50
+"Zurich, Switzerland",50
+"Florence, Italy",51
+"Montreal, Canada",51
+"Jerusalem, Israel",52
+"Hanoi, Vietnam",53
+"Washington, DC, United States",53
+"Toronto, Canada",54
+"Johannesburg, South Africa",55
+"Chicago, IL, United States",56
+"Sydney, Australia",56
+"Munich, Germany",57
+"Dusseldorf, Germany",58
+"Jakarta, Indonesia",58
+"Beijing, China",59
+"Boston, MA, United States",60
+"Saint Petersburg, Russia",60
+"Brussels, Belgium",61
+"Budapest, Hungary",62
+"Edinburgh, United Kingdom",63
+"Naples, Italy",63
+"Lisbon, Portugal",64
+"San Jose, CA, United States",64
+"Ad Dammam, Saudi Arabia",65
+"Penang, Malaysia",66
+"Tehran, Iran",68
+"Houston, TX, United States",69
+"Vancouver, Canada",70
+"Chiang Mai, Thailand",71
+"Copenhagen, Denmark",72
+"Hamburg, Germany",72
+"Cape Town, South Africa",73
+"San Francisco, CA, United States",73
+"Manila, Philippines",74
+"Melbourne, Australia",74
+"Bogota, Colombia",75
+"Warsaw, Poland",75
+"Beirut, Lebanon",77
+"Kolkata, India",77
+"Cebu, Philippines",78
+"Auckland, New Zealand",79
+"Colombo, Sri Lanka",79
+"Tel Aviv-Yafo, Israel",80
+"Bucharest, Romania",81
+"Casablanca, Morocco",82
+"Honolulu, HI, United States",82
+"Atlanta, GA, United States",83
+"Krakow (Cracow), Poland",84
+"Sofia, Bulgaria",84
+"Buenos Aires, Argentina",86
+"Frankfurt, Germany",88
+"Montevideo, Uruguay",88
+"Amman, Jordan",89
+"Stockholm, Sweden",89
+"Lima, Peru",90
+"Pune, India",91
+"Durban, South Africa",92
+"Dallas, TX, United States",93
+"Nice, France",93
+"Accra, Ghana",94
+"Abu Dhabi, United Arab Emirates",95
+"Quito, Ecuador",95
+"Porto Alegre, Brazil",97
+"Rio de Janeiro, Brazil",99
+"Lagos, Nigeria",100
+"Las Vegas, NV, United States",100
+"Bangalore, India",101
+"Cairo, Egypt",110
+"Liverpool, United Kingdom",110
+"London, United Kingdom",110
+"Quebec City, Canada",120
+"Izmir, Turkey",130
+"Luxembourg, Luxembourg",130
+"Brasilia, Brazil",140
+"Mumbai, India",140
+"Porto, Portugal",140
+"San Diego, CA, United States",140
+"Santiago, Chile",140
+"Seattle, WA, United States",140
+"Doha, Qatar",150
+"Havana, Cuba",150
+"San Jose, Costa Rica",150
+"Sharjah, United Arab Emirates",150
+"Ulaanbaatar, Mongolia",150
+"Valencia, Spain",150
+"Oslo, Norway",160
+"Ottawa, Canada",160
+"Helsinki, Finland",170
+"Kansas City, MO, United States",170
+"Ajman, United Arab Emirates",180
+"Bremen, Germany",180
+"Detroit, MI, United States",180
+"Aalborg, Denmark",200
+"Aberdeen, United Kingdom",200
+"Addis Ababa, Ethiopia",200
+"Adelaide, Australia",200
+"Ahmedabad, India",200
+"Albuquerque, NM, United States",200
+"Alexandria, Egypt",200
+"Algiers, Algeria",200
+"Alicante, Spain",200
+"Almaty, Kazakhstan",200
+"Anchorage, AK, United States",200
+"Ankara, Turkey",200
+"Antwerp, Belgium",200
+"Arhus, Denmark",200
+"Astana (Nur-Sultan), Kazakhstan",200
+"Asuncion, Paraguay",200
+"Austin, TX, United States",200
+"Baghdad, Iraq",200
+"Baguio, Philippines",200
+"Baku, Azerbaijan",200
+"Bali, Indonesia",200
+"Baltimore, MD, United States",200
+"Banja Luka, Bosnia And Herzegovina",200
+"Bari, Italy",200
+"Basel, Switzerland",200
+"Belfast, United Kingdom",200
+"Belgrade, Serbia",200
+"Belo Horizonte, Brazil",200
+"Bergen, Norway",200
+"Bern, Switzerland",200
+"Bilbao, Spain",200
+"Birmingham, United Kingdom",200
+"Boise, ID, United States",200
+"Bologna, Italy",200
+"Bonn, Germany",200
+"Brampton, Canada",200
+"Brasov, Romania",200
+"Bratislava, Slovakia",200
+"Brighton, United Kingdom",200
+"Brisbane, Australia",200
+"Bristol, United Kingdom",200
+"Brno, Czech Republic",200
+"Buffalo, NY, United States",200
+"Cagliari, Italy",200
+"Calgary, Canada",200
+"Cali, Colombia",200
+"Cambridge, United Kingdom",200
+"Canberra, Australia",200
+"Caracas, Venezuela",200
+"Cardiff, United Kingdom",200
+"Catania, Italy",200
+"Chandigarh, India",200
+"Charlotte, NC, United States",200
+"Chisinau, Moldova",200
+"Christchurch, New Zealand",200
+"Cincinnati, OH, United States",200
+"Cleveland, OH, United States",200
+"Cluj-Napoca, Romania",200
+"Coimbatore, India",200
+"Cologne, Germany",200
+"Columbus, OH, United States",200
+"Constanta, Romania",200
+"Cork, Ireland",200
+"Coventry, United Kingdom",200
+"Craiova, Romania",200
+"Cuenca, Ecuador",200
+"Curitiba, Brazil",200
+"Damascus, Syria",200
+"Dar es Salaam, Tanzania",200
+"Darwin, Australia",200
+"Denver, CO, United States",200
+"Dhaka, Bangladesh",200
+"Dnipro, Ukraine",200
+"Dresden, Germany",200
+"Edmonton, Canada",200
+"Eindhoven, Netherlands",200
+"El Paso, TX, United States",200
+"Florianopolis, Brazil",200
+"Freiburg im Breisgau, Germany",200
+"Gaborone, Botswana",200
+"Galway, Ireland",200
+"Gdansk, Poland",200
+"Geneva, Switzerland",200
+"Genoa, Italy",200
+"Gent, Belgium",200
+"Ghaziabad, India",200
+"Glasgow, United Kingdom",200
+"Gold Coast, Australia",200
+"Gothenburg, Sweden",200
+"Graz, Austria",200
+"Grenoble, France",200
+"Groningen, Netherlands",200
+"Guadalajara, Mexico",200
+"Guatemala City, Guatemala",200
+"Guayaquil, Ecuador",200
+"Guelph, Canada",200
+"Gurgaon, India",200
+"Haifa, Israel",200
+"Halifax, Canada",200
+"Hamilton, Canada",200
+"Hamilton, New Zealand",200
+"Hanover, Germany",200
+"Harare, Zimbabwe",200
+"Hobart, Australia",200
+"Hyderabad, India",200
+"Iasi, Romania",200
+"Indianapolis, IN, United States",200
+"Indore, India",200
+"Islamabad, Pakistan",200
+"Jacksonville, FL, United States",200
+"Jeddah (Jiddah), Saudi Arabia",200
+"Kabul, Afghanistan",200
+"Karachi, Pakistan",200
+"Karlsruhe, Germany",200
+"Kathmandu, Nepal",200
+"Katowice, Poland",200
+"Kaunas, Lithuania",200
+"Kelowna, Canada",200
+"Kharkiv, Ukraine",200
+"Kiev (Kyiv), Ukraine",200
+"Kigali, Rwanda",200
+"Kingston, Canada",200
+"Kingston, Jamaica",200
+"Kitchener, Canada",200
+"Kochi, India",200
+"Kuwait City, Kuwait",200
+"Lahore, Pakistan",200
+"Lausanne, Switzerland",200
+"Leeds, United Kingdom",200
+"Leipzig, Germany",200
+"Limassol, Cyprus",200
+"Limerick, Ireland",200
+"Ljubljana, Slovenia",200
+"Lodz, Poland",200
+"Louisville, KY, United States",200
+"Lucknow (Lakhnau), India",200
+"Lugano, Switzerland",200
+"Lund, Sweden",200
+"Lviv, Ukraine",200
+"Lyon, France",200
+"Madison, WI, United States",200
+"Makati, Philippines",200
+"Malaga, Spain",200
+"Male, Maldives",200
+"Malmo, Sweden",200
+"Manama, Bahrain",200
+"Manchester, United Kingdom",200
+"Mangalore, India",200
+"Markham, Canada",200
+"Marseille, France",200
+"Medellin, Colombia",200
+"Memphis, TN, United States",200
+"Merida, Mexico",200
+"Milwaukee, WI, United States",200
+"Minneapolis, MN, United States",200
+"Minsk, Belarus",200
+"Mississauga, Canada",200
+"Monterrey, Mexico",200
+"Muscat, Oman",200
+"Mysore, India",200
+"Nagpur, India",200
+"Nairobi, Kenya",200
+"Nanaimo, BC, Canada",200
+"Nashville, TN, United States",200
+"New Orleans, LA, United States",200
+"Newcastle upon Tyne, United Kingdom",200
+"Newcastle, Australia",200
+"Nicosia, Cyprus",200
+"Nizhny Novgorod, Russia",200
+"Noida, India",200
+"Nottingham, United Kingdom",200
+"Novi Sad, Serbia",200
+"Novosibirsk, Russia",200
+"Nuremberg, Germany",200
+"Oakland, CA, United States",200
+"Odessa (Odesa), Ukraine",200
+"Omaha, NE, United States",200
+"Oradea, Romania",200
+"Oulu, Finland",200
+"Palermo, Italy",200
+"Panama City, Panama",200
+"Perth, Australia",200
+"Petaling Jaya, Malaysia",200
+"Philadelphia, PA, United States",200
+"Phnom Penh, Cambodia",200
+"Phoenix, AZ, United States",200
+"Pittsburgh, PA, United States",200
+"Podgorica, Montenegro",200
+"Port of Spain, Trinidad And Tobago",200
+"Portland, OR, United States",200
+"Poznan, Poland",200
+"Pretoria, South Africa",200
+"Queretaro, Mexico",200
+"Quezon City, Philippines",200
+"Rabat, Morocco",200
+"Raleigh, NC, United States",200
+"Rawalpindi, Pakistan",200
+"Red Deer, Canada",200
+"Regina, Canada",200
+"Reykjavik, Iceland",200
+"Richmond, VA, United States",200
+"Riga, Latvia",200
+"Rijeka, Croatia",200
+"Rostov-na-donu, Russia",200
+"Rotterdam, Netherlands",200
+"Sacramento, CA, United States",200
+"Saint Louis, MO, United States",200
+"Salt Lake City, UT, United States",200
+"San Antonio, TX, United States",200
+"San Juan, Puerto Rico",200
+"San Salvador, El Salvador",200
+"Santo Domingo, Dominican Republic",200
+"Sarajevo, Bosnia And Herzegovina",200
+"Saskatoon, Canada",200
+"Seville (Sevilla), Spain",200
+"Sheffield, United Kingdom",200
+"Skopje, North Macedonia",200
+"Split, Croatia",200
+"Spokane, WA, United States",200
+"St. John's, Newfoundland and Labrador, Canada",200
+"St.Catharines, Canada",200
+"Stavanger, Norway",200
+"Stuttgart, Germany",200
+"Surat, India",200
+"Surrey, Canada",200
+"Tallinn, Estonia",200
+"Tampa, FL, United States",200
+"Tampere, Finland",200
+"Tartu, Estonia",200
+"Tashkent, Uzbekistan",200
+"Tbilisi, Georgia",200
+"The Hague (Den Haag), Netherlands",200
+"Thessaloniki, Greece",200
+"Thiruvananthapuram, India",200
+"Timisoara, Romania",200
+"Tirana, Albania",200
+"Toulouse, France",200
+"Trieste, Italy",200
+"Trondheim, Norway",200
+"Tucson, AZ, United States",200
+"Tunis, Tunisia",200
+"Turin, Italy",200
+"Uppsala, Sweden",200
+"Utrecht, Netherlands",200
+"Vadodara, India",200
+"Varna, Bulgaria",200
+"Victoria, Canada",200
+"Vilnius, Lithuania",200
+"Visakhapatnam, India",200
+"Wellington, New Zealand",200
+"Windsor, Canada",200
+"Winnipeg, Canada",200
+"Wroclaw, Poland",200
+"Yekaterinburg, Russia",200
+"Yerevan, Armenia",200
+"Zagreb, Croatia",200
